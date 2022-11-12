@@ -1,3 +1,6 @@
+# work dir
+/work
+
 # compiled output
 /dist
 /node_modules
